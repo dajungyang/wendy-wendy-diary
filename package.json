@@ -1,0 +1,38 @@
+{
+  "name": "wendy-wendy-diary",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Wendy",
+  "author": "DAJUNG <dj.yang@tg360tech.com>",
+  "scripts": {
+    "build": "nuxt build",
+    "test:unit": "vue-cli-service test:unit",
+    "dev": "nuxt",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt": "^2.2.0",
+    "vuetify": "^1.3.6",
+    "vuetify-loader": "^1.0.5"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.2",
+    "@nuxt/typescript-build": "^2.0.6",
+    "@vue/cli-plugin-unit-jest": "~4.5.0",
+    "@vue/test-utils": "^1.1.3",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-transform-imports": "^1.5.1",
+    "eslint": "^5.7.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-html": "^4.0.6",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vue-jest": "^3.0.7"
+  }
+}
