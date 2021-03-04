@@ -6,7 +6,7 @@
   "author": "DAJUNG <dj.yang@tg360tech.com>",
   "scripts": {
     "build": "nuxt build",
-    "test:unit": "vue-cli-service test:unit",
+    "test": "jest",
     "dev": "nuxt",
     "generate": "nuxt generate",
     "start": "nuxt start"
