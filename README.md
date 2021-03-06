@@ -1,6 +1,8 @@
-# wendy-wendy-diary
-
-> Wendy
+## wendy-wendy-diary
+Vue.js
+Nuxt.js
+Vuetify
+Typescript
 
 ## Build Setup
 
@@ -13,13 +15,6 @@ $ nuxt
 
 # test
 $ yarn test
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
 ```
 
 For detailed explanation on how things work, check out the [Nuxt.js](https://github.com/nuxt/nuxt.js) and [Vuetify.js](https://vuetifyjs.com/) documentation.
